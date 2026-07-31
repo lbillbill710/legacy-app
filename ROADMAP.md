@@ -4,7 +4,7 @@
 - [x] Create GitHub repository
 - [x] Create README
 - [x] Create Legacy Bible
-- [x ] Set up Flutter project
+- [ ] Set up Flutter project
 - [ ] Connect GitHub to Flutter project
 
 ---
